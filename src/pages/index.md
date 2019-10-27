@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Mohammed Sheikh
-image: /img/home-jumbotron.jpg
+image: /img/img-20190715-wa0023.jpg
 heading: Mohammed Sheikh
 subheading: Resume
 mainpitch:
