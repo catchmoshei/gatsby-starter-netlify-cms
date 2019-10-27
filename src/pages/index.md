@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Mohammed Sheikh
 image: /img/home-jumbotron.jpg
 heading: Mohammed Sheikh
-subheading: Support sustainable farming while enjoying a cup
+subheading: Resume
 mainpitch:
   title: Why Kaldi
   description: >
